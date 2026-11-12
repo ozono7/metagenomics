@@ -1,0 +1,64 @@
+ensamblador,metrica,valor
+SPAdes,n50_bp,1415
+SPAdes,l50,39617
+SPAdes,contig_mayor_bp,197381
+SPAdes,span_Mb,275.92
+SPAdes,mapeo_pct,64.46
+SPAdes,tiempo_h,22.23
+SPAdes,memoria_GB,157.75
+MEGAHIT,n50_bp,982
+MEGAHIT,l50,58246
+MEGAHIT,contig_mayor_bp,62649
+MEGAHIT,span_Mb,210.62
+MEGAHIT,mapeo_pct,55.92
+MEGAHIT,tiempo_h,2.90
+MEGAHIT,memoria_GB,10.58
+metaSPAdes,n50_bp,1124
+metaSPAdes,l50,39033
+metaSPAdes,contig_mayor_bp,141519
+metaSPAdes,span_Mb,202.77
+metaSPAdes,mapeo_pct,64.03
+metaSPAdes,tiempo_h,34.96
+metaSPAdes,memoria_GB,66.53
+IDBA-UD,n50_bp,1166
+IDBA-UD,l50,38236
+IDBA-UD,contig_mayor_bp,101400
+IDBA-UD,span_Mb,179.69
+IDBA-UD,mapeo_pct,52.24
+IDBA-UD,tiempo_h,19.38
+IDBA-UD,memoria_GB,42.84
+CLC,n50_bp,880
+CLC,l50,14113
+CLC,contig_mayor_bp,39748
+CLC,span_Mb,46.07
+CLC,mapeo_pct,38.98
+CLC,tiempo_h,0.98
+CLC,memoria_GB,16.23
+MetaVelvet,n50_bp,805
+MetaVelvet,l50,21544
+MetaVelvet,contig_mayor_bp,30177
+MetaVelvet,span_Mb,55.97
+MetaVelvet,mapeo_pct,41.17
+MetaVelvet,tiempo_h,0.70
+MetaVelvet,memoria_GB,109.37
+Omega,n50_bp,2691
+Omega,l50,2737
+Omega,contig_mayor_bp,102255
+Omega,span_Mb,34.86
+Omega,mapeo_pct,13.64
+Omega,tiempo_h,46.73
+Omega,memoria_GB,30.70
+Ray Meta,n50_bp,1329
+Ray Meta,l50,1345
+Ray Meta,contig_mayor_bp,41443
+Ray Meta,span_Mb,7.28
+Ray Meta,mapeo_pct,8.25
+Ray Meta,tiempo_h,4.56
+Ray Meta,memoria_GB,42.00
+Velvet,n50_bp,749
+Velvet,l50,19631
+Velvet,contig_mayor_bp,21980
+Velvet,span_Mb,45.43
+Velvet,mapeo_pct,48.19
+Velvet,tiempo_h,0.65
+Velvet,memoria_GB,109.37
